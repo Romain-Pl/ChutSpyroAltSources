@@ -1,0 +1,46 @@
+{
+    "name": "Tip",
+    "subtitle": "Manage your tips!",
+    "description": "Welcome to my source! Here you'll find all of my apps. Currently it's Tip",
+    "iconURL": "https://www.dropbox.com/scl/fi/zb0bk4r4wcp027r6ijcwx/tip2.png?rlkey=zfvopv16v2hz4spm4hu9h61ed&st=40zps4cf&dl=1",
+    "tintColor": "#4185A9",
+    "featuredApps": [
+        "net.peloux.Tip",
+    ],
+    "apps": [
+        {
+            "name": "Tip",
+            "bundleIdentifier": "net.peloux.Tip",
+            "marketplaceID": "6695749080",
+            "developerName": "Romain Peloux",
+            "subtitle": "Manage your tips",
+            "localizedDescription": "An app that helps you manage your tips",
+            "iconURL": "https://www.dropbox.com/scl/fi/zb0bk4r4wcp027r6ijcwx/tip2.png?rlkey=zfvopv16v2hz4spm4hu9h61ed&st=40zps4cf&dl=1",
+            "tintColor": "#5CA399",
+            "screenshots": [
+                "https://www.dropbox.com/scl/fi/fsyno5cqpa59bq2o2wwtt/0x0ss-2.png?rlkey=vy5d16msw03opyayorj4h6qez&st=efdlhj5o&dl=1",
+                "https://www.dropbox.com/scl/fi/chrfmofltqwn4jhnn3rsl/0x0ss.png?rlkey=rvexa0llbnvt8k6552j64fowv&st=6y7adrjl&dl=1",
+    
+            ],
+            "versions": [
+                {
+                    "version": "0.3",
+                    "date": "2022-05-01T09:00:00-08:00",
+                    "size": 20000000,
+                    "downloadURL": "https://www.dropbox.com/scl/fi/idnbshwjgc9bse8omog2e/Tip.ipa?rlkey=vaokj4tzkpu826ky86j2kwxnf&st=vuwjxhzf&dl=1",
+                    "minOSVersion": "18.0"
+                },
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    
+                ],
+                "privacy": {
+                    
+                }
+            }
+        },
+        
+    ],
+    
+}
