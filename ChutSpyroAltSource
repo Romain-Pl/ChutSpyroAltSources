@@ -25,6 +25,7 @@
             "versions": [
                 {
                     "version": "0.3",
+                    "buildVersion": "6",
                     "date": "2022-05-01T09:00:00-08:00",
                     "size": 20000000,
                     "downloadURL": "https://www.dropbox.com/scl/fi/idnbshwjgc9bse8omog2e/Tip.ipa?rlkey=vaokj4tzkpu826ky86j2kwxnf&st=vuwjxhzf&dl=1",
