@@ -11,6 +11,7 @@
         {
             "name": "Tip",
             "bundleIdentifier": "net.peloux.Tip",
+            "marketplaceID": "6695749080",
             "developerName": "Romain Peloux",
             "subtitle": "Manage your tips",
             "localizedDescription": "An app that helps you manage your tips",
