@@ -1,7 +1,7 @@
 {
     "name": "Tip",
     "subtitle": "Manage your tips!",
-    "description": "Welcome to my source! Here you'll find all of my apps. Currently it's Tip!test",
+    "description": "Welcome to my source! Here you'll find all of my apps. Currently it's Tip!test2",
     "iconURL": "https://www.dropbox.com/scl/fi/zb0bk4r4wcp027r6ijcwx/tip2.png?rlkey=zfvopv16v2hz4spm4hu9h61ed&st=40zps4cf&dl=1",
     "tintColor": "#4185A9",
     "featuredApps": [
@@ -28,7 +28,7 @@
                     "buildVersion": "6",
                     "date": "2022-05-01T09:00:00-08:00",
                     "size": 20000000,
-                    "downloadURL": "peloux.atwebpages.com/Tip/0.5%286%29/",
+                    "downloadURL": "peloux.atwebpages.com/Tip/0.5/6",
                     "minOSVersion": "18.0"
                 },
             ],
