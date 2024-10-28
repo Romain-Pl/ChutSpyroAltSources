@@ -24,10 +24,19 @@
             ],
             "versions": [
                 {
+                    "version": "1.0",
+                    "buildVersion": "4",
+                    "date": "2024-10-28T09:00:00-08:00",
+                    "size": 1000000,
+                    "localizedDescription": "First Tips release!",
+                    "downloadURL": "https://ChuteSpyro.github.io/ChutSpyroAltSources/Tip/1.0",
+                    "minOSVersion": "18.0"
+                }
+                {
                     "version": "0.5",
                     "buildVersion": "6",
-                    "date": "2022-05-01T09:00:00-08:00",
-                    "size": 20000000,
+                    "date": "2024-09-27T09:00:00-08:00",
+                    "size": 1000000,
                     "downloadURL": "https://ChuteSpyro.github.io/ChutSpyroAltSources/Tip/0.5",
                     "minOSVersion": "18.0"
                 },
