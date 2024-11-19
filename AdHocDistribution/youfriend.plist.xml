@@ -47,4 +47,6 @@ If you do want to provide the app icon you can find it at the root of the ipa, j
 If you need to write the symbole "&" in a url for example replace it by "&amp;"
 The file must be uploaded as file.plist.xml  ".xml" at the end is very important
 To then actually start the installation of the app, use the following URL Scheme: itms-services://?action=download-manifest&url=URL-to-manifest.plist.xml
+
+Download Link to this specific app: itms-services://?action=download-manifest&url=https://ChuteSpyro.github.io/ChutSpyroAltSources/AdHocDistribution/youfriend.plist.xml
 -->
