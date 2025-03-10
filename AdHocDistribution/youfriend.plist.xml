@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://www.dropbox.com/scl/fi/l900e4z67m7jnsqcwsxlj/Youtube.v20.09.3.-.YTLite.v5.1.Full-Signed.ipa?rlkey=ko3z654v62ng5h26m9m174sgu&amp;st=4hm2iifq&amp;dl=1</string> <!--Put the direct download link to the IPA here-->
+                        <string>https://www.dropbox.com/scl/fi/t7bymifwojm7fcr9w8s90/YouTubePlus_5.1.ipa?rlkey=ttt9kvi20yvm5esyjv83cjist&amp;st=fvif54p5&amp;dl=1</string> <!--Put the direct download link to the IPA here-->
                     </dict>
                                         <dict>
                         <key>kind</key>
@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://www.dropbox.com/scl/fi/6xg1ajidjmv9wcluk03vc/logo_youtube_color76x76-2x-ipad.png?rlkey=fyv02hd8da92bgsti3ffqdp73&amp;st=3db5yi83&amp;dl=1</string> <!-- Put the direct download link to the app's icon (optional)-->
+                        <string>https://www.dropbox.com/scl/fi/c9n5k0g9use9f653ggkey/logo_youtube_2024_q4_color76x76-2x-ipad.png?rlkey=75eignqwmt5po4zlfz2vpj9vl&amp;st=bf4g73li&amp;dl=1</string> <!-- Put the direct download link to the app's icon (optional)-->
                     </dict>
                 </array>
                 <key>metadata</key>
