@@ -47,6 +47,6 @@ The file must be uploaded as file.plist.xml  ".xml" at the end is very important
 To then actually start the installation of the app, use the following URL Scheme: itms-services://?action=download-manifest&url=URL-to-manifest.plist.xml
 The manifest has to be hosted on GitHub and the link to it has to be a direct download link: https://USERNAME.github.io/REPOS-NAME/PATH-TO-FILE
 
-Download Link to this specific app: itms-services://?action=download-manifest&url=https://ChuteSpyro.github.io/ChutSpyroAltSources/AdHocDistribution/iNKillerPlusInsta.plist.xml
+Download Link to this specific app: itms-services://?action=download-manifest&url=https://ChuteSpyro.github.io/ChutSpyroAltSources/AdHocDistribution/SCInsta.plist.xml
 -->
 
