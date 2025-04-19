@@ -25,11 +25,11 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>app.s.bundle.id</string> <!--bundle id de l'app -->
+                    <string>com.google.ios.youtube.W6P3CRYS63</string> <!--bundle id de l'app -->
                     <key>bundle-version</key>
-                    <string>19.34.2</string> <!-- App's version number -->
+                    <string>20.15.1</string> <!-- App's version number -->
                     <key>build-number</key>
-                    <string>42</string> <!-- App's build number -->
+                    <string>20.15.1</string> <!-- App's build number -->
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
