@@ -50,5 +50,5 @@ To then actually start the installation of the app, use the following URL Scheme
 The manifest has to be hosted on GitHub and the link to it has to be a direct download link: https://USERNAME.github.io/REPOS-NAME/PATH-TO-FILE
 
 
-Download Link to this specific app: itms-services://?action=download-manifest&url=https://ChuteSpyro.github.io/ChutSpyroAltSources/AdHocDistribution/YoutubeLite.plist.xml
+Download Link to this specific app: itms-services://?action=download-manifest&url=https://ChuteSpyro.github.io/ChutSpyroAltSources/AdHoc/YoutubeLite.plist.xml
 -->
