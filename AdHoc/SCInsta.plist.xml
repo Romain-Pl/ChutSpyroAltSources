@@ -27,7 +27,7 @@
                     <key>bundle-identifier</key>
                     <string>com.burbn.instagram.W6P3CRYS63W6P3CRYS63</string> <!--bundle id de l'app -->
                     <key>bundle-version</key>
-                    <string>19.34.2</string> <!-- App's version number -->
+                    <string>372.2.0</string> <!-- App's version number -->
                     <key>build-number</key>
                     <string>42</string> <!-- App's build number -->
                     <key>kind</key>
