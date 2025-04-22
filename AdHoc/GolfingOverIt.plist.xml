@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://www.dropbox.com/scl/fi/zi9g4wrj0gzsnuemysr49/GolfingOverItwithAlvaMajo_1.3.2-signed.ipa?rlkey=6hylardv7epu5d81vb8riz0h3&st=82ibeo13&dl=1</string> <!--Put the direct download link to the IPA here-->
+                        <string>https://www.dropbox.com/scl/fi/zi9g4wrj0gzsnuemysr49/GolfingOverItwithAlvaMajo_1.3.2-signed.ipa?rlkey=6hylardv7epu5d81vb8riz0h3&amp;st=82ibeo13&amp;dl=1</string> <!--Put the direct download link to the IPA here-->
                     </dict>
                                         <dict>
                         <key>kind</key>
@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://www.dropbox.com/scl/fi/ppi9f2etg6ztgfgn5xy5l/GolfingOverIt-Icon.png?rlkey=5j2aiqam0wb2l3ma72lxhky79&st=lbp3sf2o&dl=1</string> <!-- Put the direct download link to the app's icon (optional)-->
+                        <string>https://www.dropbox.com/scl/fi/ppi9f2etg6ztgfgn5xy5l/GolfingOverIt-Icon.png?rlkey=5j2aiqam0wb2l3ma72lxhky79&amp;st=lbp3sf2o&amp;dl=1</string> <!-- Put the direct download link to the app's icon (optional)-->
                     </dict>
                 </array>
                 <key>metadata</key>
