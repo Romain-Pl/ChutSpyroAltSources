@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://www.dropbox.com/scl/fi/psgv7guapj73j9klsrici/FallGuys_18.0.0-signed.ipa?rlkey=05kr7zqequ5fxb58icbj53gjl&st=jmm8idmq&dl=1</string> <!--Put the direct download link to the IPA here-->
+                        <string>https://www.dropbox.com/scl/fi/psgv7guapj73j9klsrici/FallGuys_18.0.0-signed.ipa?rlkey=05kr7zqequ5fxb58icbj53gjl&amp;st=jmm8idmq&amp;dl=1</string> <!--Put the direct download link to the IPA here-->
                     </dict>
                                         <dict>
                         <key>kind</key>
@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://www.dropbox.com/scl/fi/e4v9snssduco1tyidmac3/FallGuys-Icon.png?rlkey=r2hlrpnkgru6aandpt9a1sc8g&st=n9js6pfp&dl=1</string> <!-- Put the direct download link to the app's icon (optional)-->
+                        <string>https://www.dropbox.com/scl/fi/e4v9snssduco1tyidmac3/FallGuys-Icon.png?rlkey=r2hlrpnkgru6aandpt9a1sc8g&amp;st=n9js6pfp&amp;dl=1</string> <!-- Put the direct download link to the app's icon (optional)-->
                     </dict>
                 </array>
                 <key>metadata</key>
