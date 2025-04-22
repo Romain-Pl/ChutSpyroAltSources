@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://www.dropbox.com/scl/fi/kngauojnjpjys5w0kco83/TwitchAdBlock_24.1-0.1.5-signed.ipa?rlkey=rwspqsltq4iv7xyw1supd589j&st=6z7pdtjg&dl=1</string> <!--Put the direct download link to the IPA here-->
+                        <string>https://www.dropbox.com/scl/fi/kngauojnjpjys5w0kco83/TwitchAdBlock_24.1-0.1.5-signed.ipa?rlkey=rwspqsltq4iv7xyw1supd589j&amp;st=6z7pdtjg&amp;dl=1</string> <!--Put the direct download link to the IPA here-->
                     </dict>
                                         <dict>
                         <key>kind</key>
@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://www.dropbox.com/scl/fi/eolb5urpgau79avliishc/Twitch-icon.png?rlkey=8louy9iy8ixj5ksf79l1t3zfn&st=0a5qbsqp&dl=1</string> <!-- Put the direct download link to the app's icon (optional)-->
+                        <string>https://www.dropbox.com/scl/fi/eolb5urpgau79avliishc/Twitch-icon.png?rlkey=8louy9iy8ixj5ksf79l1t3zfn&amp;st=0a5qbsqp&amp;dl=1</string> <!-- Put the direct download link to the app's icon (optional)-->
                     </dict>
                 </array>
                 <key>metadata</key>
