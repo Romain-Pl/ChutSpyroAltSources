@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>https://www.dropbox.com/scl/fi/psgv7guapj73j9klsrici/FallGuys_18.0.0-signed.ipa?rlkey=05kr7zqequ5fxb58icbj53gjl&st=jmm8idmq&dl=1</string> <!--Put the direct download link to the IPA here-->
+                    </dict>
+                                        <dict>
+                        <key>kind</key>
+                        <string>display-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>https://www.dropbox.com/scl/fi/e4v9snssduco1tyidmac3/FallGuys-Icon.png?rlkey=r2hlrpnkgru6aandpt9a1sc8g&st=n9js6pfp&dl=1</string> <!-- Put the direct download link to the app's icon (optional)-->
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>uk.co.mediatonic.fallguys.W6P3CRYS63</string> <!--bundle id de l'app -->
+                    <key>bundle-version</key>
+                    <string>18.0.0</string> <!-- App's version number -->
+                    <key>build-number</key>
+                    <string>6034</string> <!-- App's build number -->
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>Fall Guys</string> <!--App's display name-->
+                                    </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
+
+<!--
+Bonus infos:
+If you don't want to provide the app icon you remove the whole block from <dict> to </dict>
+If you do want to provide the app icon you can find it at the root of the ipa, just search 76x76 if the app is compatible with ipad otherwise search 60x60.
+If you need to write the symbole "&" in a url for example replace it by "&amp;"
+The file must be uploaded as file.plist.xml  ".xml" at the end is very important
+To then actually start the installation of the app, use the following URL Scheme: itms-services://?action=download-manifest&url=URL-to-manifest.plist.xml
+The manifest has to be hosted on GitHub and the link to it has to be a direct download link: https://USERNAME.github.io/REPOS-NAME/PATH-TO-FILE
+
+
+Download Link to this specific app: itms-services://?action=download-manifest&url=https://ChuteSpyro.github.io/ChutSpyroAltSources/AdHoc/FallGuys.plist.xml
+-->
