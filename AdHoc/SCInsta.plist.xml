@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://www.dropbox.com/scl/fi/44rvmauk67txurg894bw2/SCInsta_sideloaded_v0.6.0-signed.ipa?rlkey=olopu5np4tx4gc9qv09qb3hon&st=gct4dd5k&dl=1</string> <!--Put the direct download link to the IPA here-->
+                        <string>https://www.dropbox.com/scl/fi/44rvmauk67txurg894bw2/SCInsta_sideloaded_v0.6.0-signed.ipa?rlkey=olopu5np4tx4gc9qv09qb3hon&amp;st=gct4dd5k&amp;dl=1</string> <!--Put the direct download link to the IPA here-->
                     </dict>
                                         <dict>
                         <key>kind</key>
@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://www.dropbox.com/scl/fi/0tzipd2mx5uba7n4jhaou/Instagram-Icon.png?rlkey=ecju48bfs1zv8oxpap7l09gpd&st=dnqo1bmp&dl=1</string> <!-- Put the direct download link to the app's icon (optional)-->
+                        <string>https://www.dropbox.com/scl/fi/0tzipd2mx5uba7n4jhaou/Instagram-Icon.png?rlkey=ecju48bfs1zv8oxpap7l09gpd&amp;st=dnqo1bmp&amp;dl=1</string> <!-- Put the direct download link to the app's icon (optional)-->
                     </dict>
                 </array>
                 <key>metadata</key>
