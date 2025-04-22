@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://www.dropbox.com/scl/fi/658rzbmr94bmp3iqaqepj/StikJIT_1.3.2-signed.ipa?rlkey=0cymgpi4fvllyrv3mtentfibv&st=kexu2ay2&dl=1</string> <!--Put the direct download link to the IPA here-->
+                        <string>https://www.dropbox.com/scl/fi/658rzbmr94bmp3iqaqepj/StikJIT_1.3.2-signed.ipa?rlkey=0cymgpi4fvllyrv3mtentfibv&amp;st=kexu2ay2&amp;dl=1</string> <!--Put the direct download link to the IPA here-->
                     </dict>
                                         <dict>
                         <key>kind</key>
@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://www.dropbox.com/scl/fi/wyx4ce8nqm582q0y4mega/StikJIT-Icon.png?rlkey=y3la4yabscocrrzpz2n6x3vik&st=4608w90d&dl=1</string> <!-- Put the direct download link to the app's icon (optional)-->
+                        <string>https://www.dropbox.com/scl/fi/wyx4ce8nqm582q0y4mega/StikJIT-Icon.png?rlkey=y3la4yabscocrrzpz2n6x3vik&amp;st=4608w90d&amp;dl=1</string> <!-- Put the direct download link to the app's icon (optional)-->
                     </dict>
                 </array>
                 <key>metadata</key>
