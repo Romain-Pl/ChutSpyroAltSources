@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://www.dropbox.com/scl/fi/7zah3f9pwnr89dk07fm85/MeloNX-signed.ipa?rlkey=80xjbznogsownogvhw7o0xpp1&st=p5qhw83m&dl=1</string> <!--Put the direct download link to the IPA here-->
+                        <string>https://www.dropbox.com/scl/fi/7zah3f9pwnr89dk07fm85/MeloNX-signed.ipa?rlkey=80xjbznogsownogvhw7o0xpp1&amp;st=p5qhw83m&amp;dl=1</string> <!--Put the direct download link to the IPA here-->
                     </dict>
                                         <dict>
                         <key>kind</key>
@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://www.dropbox.com/scl/fi/k2fuqy14a4kn0vlu14ebg/MeloNX-Icon.png?rlkey=rbhb1ap0jy69zjio8bu7p307l&st=zg86gdfn&dl=1</string> <!-- Put the direct download link to the app's icon (optional)-->
+                        <string>https://www.dropbox.com/scl/fi/k2fuqy14a4kn0vlu14ebg/MeloNX-Icon.png?rlkey=rbhb1ap0jy69zjio8bu7p307l&amp;st=zg86gdfn&amp;dl=1</string> <!-- Put the direct download link to the app's icon (optional)-->
                     </dict>
                 </array>
                 <key>metadata</key>
