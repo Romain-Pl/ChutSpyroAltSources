@@ -27,9 +27,9 @@
                     <key>bundle-identifier</key>
                     <string>com.streamer.ios.W6P3CRYS63</string> <!--bundle id de l'app -->
                     <key>bundle-version</key>
-                    <string>19.34.2</string> <!-- App's version number -->
+                    <string>1.2.42</string> <!-- App's version number -->
                     <key>build-number</key>
-                    <string>42</string> <!-- App's build number -->
+                    <string>376</string> <!-- App's build number -->
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
