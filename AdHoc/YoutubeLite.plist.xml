@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://www.dropbox.com/scl/fi/uszku7znyk5ow1lgmwczv/YouTubePlus_5.1-signed.ipa?rlkey=z4l6wdm8nb096g301cvzbuji6&amp;st=93hvr1b8&amp;dl=1</string> <!--Put the direct download link to the IPA here-->
+                        <string>https://www.dropbox.com/scl/fi/71wajkvoa1ikd3jpfxer4/YouTubePlus_5.1.ipa?rlkey=ge1de5ofjd5afr0vym0yrbm8n&amp;st=e4o2mqt9&amp;dl=1</string> <!--Put the direct download link to the IPA here-->
                     </dict>
                                         <dict>
                         <key>kind</key>
@@ -27,9 +27,9 @@
                     <key>bundle-identifier</key>
                     <string>com.google.ios.youtube.W6P3CRYS63</string> <!--bundle id de l'app -->
                     <key>bundle-version</key>
-                    <string>20.15.1</string> <!-- App's version number -->
+                    <string>20.23.3</string> <!-- App's version number -->
                     <key>build-number</key>
-                    <string>20.15.1</string> <!-- App's build number -->
+                    <string>20.23.3</string> <!-- App's build number -->
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
