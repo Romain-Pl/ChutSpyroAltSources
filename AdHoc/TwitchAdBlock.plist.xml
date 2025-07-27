@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://www.dropbox.com/scl/fi/kngauojnjpjys5w0kco83/TwitchAdBlock_24.1-0.1.5-signed.ipa?rlkey=rwspqsltq4iv7xyw1supd589j&amp;st=6z7pdtjg&amp;dl=1</string> <!--Put the direct download link to the IPA here-->
+                        <string>https://www.dropbox.com/scl/fi/feah7wcnh0kmjsgm0lc1e/TwitchAdBlock_25.1-0.1.5-signed.ipa?rlkey=jkkn687frb1pd2n9g3g8ddqxr&amp;st=gkrt6tkc&amp;dl=1</string> <!--Put the direct download link to the IPA here-->
                     </dict>
                                         <dict>
                         <key>kind</key>
@@ -50,5 +50,5 @@ To then actually start the installation of the app, use the following URL Scheme
 The manifest has to be hosted on GitHub and the link to it has to be a direct download link: https://USERNAME.github.io/REPOS-NAME/PATH-TO-FILE
 
 
-Download Link to this specific app: itms-services://?action=download-manifest&url=https://ChuteSpyro.github.io/ChutSpyroAltSources/AdHoc/TwitchAdBlock.plist.xml
+Download Link to this specific app: itms-services://?action=download-manifest&url=https://Romain-Pl.github.io/ChutSpyroAltSources/AdHoc/TwitchAdBlock.plist.xml
 -->
