@@ -27,9 +27,9 @@
                     <key>bundle-identifier</key>
                     <string>com.google.ios.youtube.W6P3CRYS63</string> <!--bundle id de l'app -->
                     <key>bundle-version</key>
-                    <string></string> <!-- App's version number -->
+                    <string>20.34.2</string> <!-- App's version number -->
                     <key>build-number</key>
-                    <string></string> <!-- App's build number -->
+                    <string>20.34.2</string> <!-- App's build number -->
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
