@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://github.com/Romain-Pl/YTLite/releases/download/ytp-11/YouTube-signed_20.34.2-5.1.ipa</string> <!--Put the direct download link to the IPA here-->
+                        <string>https://github.com/Romain-Pl/YTLite/releases/download/ytp-12/YouTubePlus_5.1-20.37.5-signed.ipa</string> <!--Put the direct download link to the IPA here-->
                     </dict>
                                         <dict>
                         <key>kind</key>
@@ -27,9 +27,9 @@
                     <key>bundle-identifier</key>
                     <string>com.google.ios.youtube.W6P3CRYS63</string> <!--bundle id de l'app -->
                     <key>bundle-version</key>
-                    <string>20.34.2</string> <!-- App's version number -->
+                    <string>20.37.5</string> <!-- App's version number -->
                     <key>build-number</key>
-                    <string>20.34.2</string> <!-- App's build number -->
+                    <string>20.37.5</string> <!-- App's build number -->
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
@@ -50,5 +50,5 @@ To then actually start the installation of the app, use the following URL Scheme
 The manifest has to be hosted on GitHub and the link to it has to be a direct download link: https://USERNAME.github.io/REPOS-NAME/PATH-TO-FILE
 
 
-Download Link to this specific app: itms-services://?action=download-manifest&url=https://Romain-Pl.github.io/ChutSpyroAltSources/AdHoc/Youtube/YTPlus5.1-YT20.34.2.plist.xml
+Download Link to this specific app: itms-services://?action=download-manifest&url=https://Romain-Pl.github.io/ChutSpyroAltSources/AdHoc/Youtube/YTPlus5.1-YT20.37.5.plist.xml
 -->
