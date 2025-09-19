@@ -25,7 +25,7 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.google.ios.youtube.W6P3CRYS63</string> <!--bundle id de l'app -->
+                    <string>com.burbn.instagram.W6P3CRYS63W6P3CRYS63</string> <!--bundle id de l'app -->
                     <key>bundle-version</key>
                     <string>398.1.0.39.81</string> <!-- App's version number -->
                     <key>build-number</key>
