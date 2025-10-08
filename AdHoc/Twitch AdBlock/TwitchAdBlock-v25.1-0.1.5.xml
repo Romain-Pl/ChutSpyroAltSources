@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://github.com/Romain-Pl/SCInsta/releases/download/1/SCInsta_sideloaded_v0.8.0-398.1.0-signed.ipa</string> <!--Put the direct download link to the IPA here-->
+                        <string>https://github.com/Romain-Pl/TwitchAdBlock/releases/download/25.1/TwitchAdBlock_25.1-0.1.5-signed.ipa</string> <!--Put the direct download link to the IPA here-->
                     </dict>
                                         <dict>
                         <key>kind</key>
@@ -19,21 +19,21 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://www.dropbox.com/scl/fi/0tzipd2mx5uba7n4jhaou/Instagram-Icon.png?rlkey=ecju48bfs1zv8oxpap7l09gpd&amp;st=xdzt6nyx&amp;dl=1</string> <!-- Put the direct download link to the app's icon (optional)-->
+                        <string>https://raw.githubusercontent.com/Romain-Pl/ChutSpyroAltSources/refs/heads/main/AdHoc/Twitch%20AdBlock/TwitchAppIcon76x76@2x~ipad.png</string> <!-- Put the direct download link to the app's icon (optional)-->
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.burbn.instagram.W6P3CRYS63W6P3CRYS63</string> <!--bundle id de l'app -->
+                    <string>tv.twitch.W6P3CRYS63</string> <!--bundle id de l'app -->
                     <key>bundle-version</key>
-                    <string>398.1.0.39.81</string> <!-- App's version number -->
+                    <string>51.1</string> <!-- App's version number -->
                     <key>build-number</key>
-                    <string>792780931</string> <!-- App's build number -->
+                    <string>251752015500642806</string> <!-- App's build number -->
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>Instagram</string> <!--App's display name-->
+                    <string>Twitch</string> <!--App's display name-->
                                     </dict>
             </dict>
         </array>
